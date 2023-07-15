@@ -18,16 +18,14 @@ int main()
         printf(" * ");
       } 
       else 
-      {
+       {
             printf("    ");
-      }
-   } 
-  
-   printf("\n");
- 
-  }
+       }
+    } 
+      printf("\n");
+ }
 
-      printf("\n=====================Thanks=================\n");
+ printf("\n=====================Thanks=================\n");
     
 getch ();
 return 0;
