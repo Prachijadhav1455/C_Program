@@ -1,4 +1,4 @@
-//
+//commit
 ///Create array without initialization and disply  all element 
 #include<stdio.h>
 #include<conio.h>
